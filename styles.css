@@ -1,0 +1,6 @@
+
+
+.links a {
+    display: grid;
+    grid-template-columns: 2;
+}
