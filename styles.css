@@ -32,3 +32,7 @@ a {
 .nice-note {
     font-size: x-large;
 }
+
+.more {
+    opacity: 0.5;
+}
